@@ -1,0 +1,21 @@
+.menu-section {
+  padding: 20px;
+  color: #fff;
+  background-color: rgba(20, 20, 20, .9);
+  width: 75%;
+  margin: 25px auto;
+}
+
+.menu-section h1, h2 {
+  text-align: center;
+}
+
+.menu-section h1 {
+  margin-bottom: 5vh;
+}
+
+@media (max-width: 768px) {
+  .menu-section {
+    width: 100%;
+  }
+}

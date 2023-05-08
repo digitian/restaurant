@@ -1,0 +1,12 @@
+.footer-icons {
+  display: flex;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  z-index: 1;
+}
+
+.footer-icons a {
+  color: #fff;
+  font-size: 30px;
+}
